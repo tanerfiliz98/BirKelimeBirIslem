@@ -1,0 +1,11 @@
+C:\Users\pluto\Desktop\Belgelerim\Masaüstü Programlama Projeleri\C#\BirKelimeBirIslem\BirKelimeBirIslem\bin\Debug\BirKelimeBirIslem.exe.config
+C:\Users\pluto\Desktop\Belgelerim\Masaüstü Programlama Projeleri\C#\BirKelimeBirIslem\BirKelimeBirIslem\bin\Debug\BirKelimeBirIslem.exe
+C:\Users\pluto\Desktop\Belgelerim\Masaüstü Programlama Projeleri\C#\BirKelimeBirIslem\BirKelimeBirIslem\bin\Debug\BirKelimeBirIslem.pdb
+C:\Users\pluto\Desktop\Belgelerim\Masaüstü Programlama Projeleri\C#\BirKelimeBirIslem\BirKelimeBirIslem\obj\Debug\BirKelimeBirIslem.csprojAssemblyReference.cache
+C:\Users\pluto\Desktop\Belgelerim\Masaüstü Programlama Projeleri\C#\BirKelimeBirIslem\BirKelimeBirIslem\obj\Debug\yazilimYapimi.birIslem.resources
+C:\Users\pluto\Desktop\Belgelerim\Masaüstü Programlama Projeleri\C#\BirKelimeBirIslem\BirKelimeBirIslem\obj\Debug\yazilimYapimi.birKelime.resources
+C:\Users\pluto\Desktop\Belgelerim\Masaüstü Programlama Projeleri\C#\BirKelimeBirIslem\BirKelimeBirIslem\obj\Debug\BirKelimeBirIslem.Properties.Resources.resources
+C:\Users\pluto\Desktop\Belgelerim\Masaüstü Programlama Projeleri\C#\BirKelimeBirIslem\BirKelimeBirIslem\obj\Debug\BirKelimeBirIslem.csproj.GenerateResource.cache
+C:\Users\pluto\Desktop\Belgelerim\Masaüstü Programlama Projeleri\C#\BirKelimeBirIslem\BirKelimeBirIslem\obj\Debug\BirKelimeBirIslem.csproj.CoreCompileInputs.cache
+C:\Users\pluto\Desktop\Belgelerim\Masaüstü Programlama Projeleri\C#\BirKelimeBirIslem\BirKelimeBirIslem\obj\Debug\BirKelimeBirIslem.exe
+C:\Users\pluto\Desktop\Belgelerim\Masaüstü Programlama Projeleri\C#\BirKelimeBirIslem\BirKelimeBirIslem\obj\Debug\BirKelimeBirIslem.pdb
