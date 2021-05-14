@@ -2,7 +2,7 @@
  Bir Kelime Bir İşlem Yarışmasının bir kopyası. İşlemler ve Kelimeleri uygulama kendisi bulur. Sayıları ve Harfleri rastgele de verilebildiği gibi istenilen değerleri kullanıcıda yazabilir. 
  Bir işlem brute force (kaba kuvvet) yöntemiyle yan yana olan bütün kombinasyonlarını deneyerek bulunuyor. Bir Kelime ise bir kelime listesinden kelimeleri çekilip istenilen harfler o kelimeden çıkarıldığı zaman kalan hiçbir eleman kalmazsa o kelime alınıyor.
 
-
+![App](/githubCSharp.gif)
 
 
 ## Projenin Çalısması için Gerekeneler
